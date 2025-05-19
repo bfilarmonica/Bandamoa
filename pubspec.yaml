@@ -1,0 +1,15 @@
+
+name: partitura_transpositor
+description: Projeto Flutter para transpor partituras entre vozes.
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/asa_branca/
